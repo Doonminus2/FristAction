@@ -1,5 +1,6 @@
-def say_hello():
-    print("Hello, GitHub Actions!") 
+def sayHello():
+    print("Hello World")
 
-def say_bye():
-    print("bye guyyy")
+
+def sayGoodbye():
+    print("Goodbye Ja")
