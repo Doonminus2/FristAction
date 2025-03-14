@@ -1,6 +1,5 @@
 def say_hello():
     print("Hello, GitHub Actions!") 
-     # Indentation ผิดพลาด
-def sayBye():
-    print("bye guyyy")
 
+def say_bye():
+    print("bye guyyy")
